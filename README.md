@@ -15,7 +15,7 @@ After installing the requirements, python3 add_random_pow_blockchain.py will pop
 
 To run the web interface where you can interact with your blockchain, understand it, and debug, run python3 run_webapp.py. Browsing to localhost:5000 in your browser should then yield a screen that lets you inspect the blocks in the chain
 
-<img src="chainExplorer.png" width="400px">
+<img src="chainExplorer.png" width="600px">
 
 Database Management
 To clear the database, simply remove all contents of the database folder; you may need to do this if the database becomes corrupted or you wish to regenerate it for any reason.
